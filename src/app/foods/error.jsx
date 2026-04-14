@@ -31,7 +31,7 @@ const PageError = () => {
         </button>
 
         {/* Small hint */}
-        <p className="mt-4 text-xs text-gray-400">Error Code: PAGE_NOT_FOUND</p>
+        <p className="mt-4 text-xs text-gray-400">Error Code: Error</p>
       </div>
     </div>
   );
