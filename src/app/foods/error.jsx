@@ -7,7 +7,7 @@ const PageError = () => {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-red-50 via-white to-red-100 px-4">
       <div className="text-center max-w-md">
         {/* Big Error Code */}
-        <h1 className="text-8xl font-extrabold text-red-500 animate-bounce">
+        <h1 className="text-6xl font-extrabold text-red-500 animate-bounce">
           404
         </h1>
 
