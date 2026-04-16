@@ -23,7 +23,7 @@ const FoodPage = ({ food }) => {
         </h2>
         <p>
           A card component has a figure, a body part, and inside body there are
-          title and actions parts
+          title and actions parts.
         </p>
         <h2>{category}</h2>
         <div className="card-actions justify-end">
