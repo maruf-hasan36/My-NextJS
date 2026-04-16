@@ -8,7 +8,7 @@ const PageError = () => {
       <div className="text-center max-w-md">
         {/* Big Error Code */}
         <h1 className="text-6xl font-extrabold text-red-500 animate-bounce">
-          404
+          404 Not found
         </h1>
 
         {/* Title */}
