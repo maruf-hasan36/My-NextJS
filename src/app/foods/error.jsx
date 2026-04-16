@@ -12,9 +12,7 @@ const PageError = () => {
         </h1>
 
         {/* Title */}
-        <h2 className="mt-4 text-3xl font-bold text-gray-800">
-          Page Not Found
-        </h2>
+        <h2 className="mt-4 text-3xl font-bold text-gray-800">Page Not</h2>
 
         {/* Description */}
         <p className="mt-3 text-gray-500">
